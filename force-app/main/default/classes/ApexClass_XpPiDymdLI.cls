@@ -1,0 +1,1 @@
+public class ApexClass_XpPiDymdLI { public void m1_Re9Mp50hHw() { System.debug('Hello, World!');} public void m2_UNZd1FQUpB() { System.debug('Hello, World!');} public void m3_3Ko2FQTJRO() { System.debug('Hello, World!');}}
