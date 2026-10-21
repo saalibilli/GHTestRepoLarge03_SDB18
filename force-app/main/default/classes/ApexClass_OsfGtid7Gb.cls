@@ -1,0 +1,1 @@
+public class ApexClass_OsfGtid7Gb { public void m1_etbWYk4kVw() { System.debug('Hello, World!');} public void m2_GxEznux51f() { System.debug('Hello, World!');} public void m3_TJMKCImwlW() { System.debug('Hello, World!');}}
